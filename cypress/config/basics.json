@@ -1,0 +1,7 @@
+{
+  "extends": "./cypress",
+  "baseUrl": "https://rahulshettyacademy.com/AutomationPractice/",
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 60000,
+  "execTimeout": 120000
+}

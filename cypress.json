@@ -1,0 +1,23 @@
+{
+  "baseUrl": "https://rahulshettyacademy.com/AutomationPractice/",
+  "chromeWebSecurity": false,
+  "fixturesFolder": false,
+  "defaultCommandTimeout": 60000,
+  "downloadsFolder": "downloads",
+  "execTimeout": 120000,
+  "pageLoadTimeout": 120000,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "charts": true,
+    "embeddedScreenshots": true,
+    "inlineAssets": true,
+    "reportDir": "reports",
+    "reportFilename": "report",
+    "reportPageTitle": "MYB Test Report"
+  },
+  "screenshotsFolder": "screenshots",
+  "video": false,
+  "videosFolder": "videos",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}
